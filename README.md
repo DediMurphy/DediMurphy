@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Raafi Hilmi.
+# Hi! 👋 I'm Dedi Murphy.
 
 I'm diving deep into the exciting world of Android app development! 📱 As a passionate student, I'm on a mission to soak up all the knowledge I can and put it into action to create apps that are not just cool, but also super user-friendly and impactful.
 
