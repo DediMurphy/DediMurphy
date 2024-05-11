@@ -1,10 +1,9 @@
-# Halo semua! 
+# Hi! 👋 I'm Raafi Hilmi.
 
-Perkenalkan nama saya **Dedi Murphy**.
+I'm diving deep into the exciting world of Android app development! 📱 As a passionate student, I'm on a mission to soak up all the knowledge I can and put it into action to create apps that are not just cool, but also super user-friendly and impactful.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dedi-murphy-8119bb238/)ku ya.
+🌱 I’m currently learning about mobile application
+⚡ Currently study at Bina Sarana Informatika University
 
 <p align="left">
 <a href="https://github.com/DediMurphy">
@@ -12,3 +11,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[Linkedin](https://www.linkedin.com/in/dedi-murphy-8119bb238/)
+[Email](dedimurphy05@gmail.com)
