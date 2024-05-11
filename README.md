@@ -2,10 +2,10 @@
 
 I'm diving deep into the exciting world of Android app development! 📱 As a passionate student, I'm on a mission to soak up all the knowledge I can and put it into action to create apps that are not just cool, but also super user-friendly and impactful.
 
-🌱 I’m currently learning about mobile application
-⚡ Currently study at Bina Sarana Informatika University
+> 🌱 I’m currently learning about mobile application
+> ⚡ Currently study at Bina Sarana Informatika University
 
-# Tech Stack
+### Tech Stack
 ![kotlin](https://github.com/DediMurphy/DediMurphy/assets/99854509/52e67d13-9613-418f-add0-b23d4548a215)
 ![flutter](https://github.com/DediMurphy/DediMurphy/assets/99854509/3bb439da-61e3-437d-b781-7b0348b7c94a)
 ![dart](https://github.com/DediMurphy/DediMurphy/assets/99854509/9377fb92-37b9-4e88-b7e5-a571a9f7e545)
