@@ -11,8 +11,9 @@ I'm a passionate Programmer who loves building mobile, web, and backend applicat
 ![flutter](https://github.com/DediMurphy/DediMurphy/assets/99854509/3bb439da-61e3-437d-b781-7b0348b7c94a)
 ![dart](https://github.com/DediMurphy/DediMurphy/assets/99854509/9377fb92-37b9-4e88-b7e5-a571a9f7e545)
 ![andorid](https://github.com/DediMurphy/DediMurphy/assets/99854509/64dd295c-2567-4877-8dec-23c8b9f35e46)
-![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
-![.NET](https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png" width="50">
+
 
 
 
